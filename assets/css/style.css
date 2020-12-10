@@ -56,4 +56,8 @@ li:nth-child(2n -1) {
 
 /* TODO: Add your code to make the first line of the first paragraph bold */
 
+.intro::first-line {
+  font-weight: 900;
+}
+
 /* TODO: Add your code to change the style of the first letter of the second paragraph */
