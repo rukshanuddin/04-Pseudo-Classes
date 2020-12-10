@@ -50,6 +50,10 @@ li:hover::before {
 
 /* TODO: Add your code to give every other list item a different background color */
 
+li:nth-child(2n -1) {
+  background-color: pink;
+}
+
 /* TODO: Add your code to make the first line of the first paragraph bold */
 
 /* TODO: Add your code to change the style of the first letter of the second paragraph */
