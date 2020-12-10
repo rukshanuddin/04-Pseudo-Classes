@@ -61,3 +61,10 @@ li:nth-child(2n -1) {
 }
 
 /* TODO: Add your code to change the style of the first letter of the second paragraph */
+
+.conclusion::first-letter {
+  font-weight: 900;
+  font-size: x-large;
+  color: palevioletred;
+  font-family: cursive;
+}
