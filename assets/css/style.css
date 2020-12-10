@@ -29,6 +29,13 @@ li {
 
 /* TODO: Add your code to change the style of the list items when hovering over them */
 
+li:hover {
+  color: purple;
+  font-weight: 900;
+  list-style-type: none;
+  text-shadow: 2px 2px lightpink;
+}
+
 /* TODO: Add your code to add a potato emoji to the list item */
 
 /* TODO: Add your code to change the potato to a heart */
